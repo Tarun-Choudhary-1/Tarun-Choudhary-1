@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Tarun Choudhary
+- 👀 I’m interested in data analytics, machine learning, and artificial intelligence
+- 🌱 I’m currently learning machine learning techniques and data science applications
+- 💞️ I’m looking to collaborate on data-driven projects, AI model development, and open-source contributions in machine learning
+- 📫 How to reach me: You can reach me via email at tarunbedal@gmail.com or connect with me on LinkedIn Tarun Choudhary
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and participating in hackathons!
